@@ -1,0 +1,67 @@
+1.	As a user,
+I want to be able to create a username,
+So that I can play games.
+
+2.	As a QA trainer,
+I want to be able to challenge another user,
+So that I can play a game.
+
+3.	As a QA employee,
+I want to be able to add a game to the queue,
+So I can play pool with my friends.
+
+4.	As a user,
+I want to be on the queue a maximum of one time,
+So that everyone gets a fair chance of playing a game.
+
+5.	As a user, 
+I want to be able to see the games that are queued to be played,
+So that I know how many games are to be played before my game.
+
+6.	As a user,
+I want to be able to see my recent statistics,
+So I can see how well I have played.
+
+7.	As a QA HR person #Naomi,
+I want to be able to create a tournament,
+So that we can play a tournament.
+
+8.	As a user,
+I want to be able to view the current tournament standings,
+So that I can see how well I have done, or am doing.
+
+9.	As a QA consultant,
+I want to be able to view the recent tournament winner,
+So that I can challenge them.
+
+10.	As a QA consultant,
+I want to be able to challenge the champion,
+So that I can be champion.
+
+11.	As a user,
+I want to be able to view the rules that are adhered to by different pool organisations,
+So that I can ensure that I am following the correct rules
+
+12.	As a user,
+I want to be able to view the rules,
+So that I know how to play.
+
+13.	As a champion,
+I want to be able to view my current winstreak,
+So that I can boast to my friends.
+
+14.	As a user,
+I want to be able to view my highest winstreak,
+So that I can boast to my friends.
+
+15.	As a user,
+I want to be seeded,
+To have a ranking in the company.
+
+16.	As a QA consultant,
+I want to view the leader-board,
+So that I can see how I place.
+
+17.	As a user,
+I want to be able to apply rules to the game I am going to play,
+So both players are clear on what the rules are.

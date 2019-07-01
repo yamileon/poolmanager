@@ -2,8 +2,9 @@
     queue:{
         p1name : '',
         p2name : '',
+        gamerule:'',
     }
-    user:{
+    user:{c
         uid:{
             "name":
             gamesplayed

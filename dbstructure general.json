@@ -1,0 +1,28 @@
+{
+    queue:{
+        p1name : '',
+        p2name : '',
+    }
+    user:{
+        uid:{
+            "name":
+            gamesplayed
+            "wins"
+            "losses"
+            "ouotes"
+            "winstreak"
+        }
+    }
+    "ruleset"
+    rid:"link"
+    rid: "link"
+    rid: "link"
+    
+    "champion":{
+        "uid"
+        "currentwinstreak"
+        "recenttourmentwinner"
+        "tourmentwinstreak"
+    }
+
+}
